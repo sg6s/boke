@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+[sg6s Blog](https://sg6s.github.io/boke/)
 ================================
 
 > I never expected this to become popular.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](https://sg6s.github.io/boke/img/blog-desktop.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)
@@ -44,20 +44,20 @@ Other Resources
 
 Ports
 - [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
-- [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
+- [**React-SSR**](https://github.com/LucasIcarus/sg6s.github.io/tree/ssr) by @LucasIcarus
 
-[Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
+[Starter/Boilerplate](https://github.com/sg6s/boke-boilerplate)
 - Out of date. Helps wanted for updating it on par with the main repo
 
 Translation
-- [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
+- [🇨🇳  中文文档（有点过时）](https://github.com/sg6s/sg6s.github.io/blob/master/_doc/README.zh.md)
 
 
 License
 -------
 
 Apache License 2.0.
-Copyright (c) 2015-present Huxpro
+Copyright (c) 2015-present sg6s
 
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
+sg6s Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
 Copyright (c) 2013-2016 Blackrock Digital LLC.
