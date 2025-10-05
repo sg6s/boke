@@ -1,9 +1,9 @@
 [sg6s Blog](https://sg6s.github.io/boke/)
 ================================
 
-> I never expected this to become popular.
+> I want to become very wealthy. First of all, I need to be healthy. Secondly, I need to have money. Thirdly, I need to have love. Finally, I need to have continuous good luck.
 
-![](https://sg6s.github.io/boke/img/blog-desktop.jpg)
+![](https://sg6s.github.io/boke/img/post-bg-os-metro.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)
