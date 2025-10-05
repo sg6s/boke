@@ -43,7 +43,7 @@ Other Resources
 ---------------
 
 Ports
-- [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
+- [**Hexo**](https://github.com/Kaijun/hexo-theme-sg6sblog) by @kaijun
 - [**React-SSR**](https://github.com/LucasIcarus/sg6s.github.io/tree/ssr) by @LucasIcarus
 
 [Starter/Boilerplate](https://github.com/sg6s/boke-boilerplate)
